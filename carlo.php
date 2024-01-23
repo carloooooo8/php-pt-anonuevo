@@ -1,0 +1,10 @@
+<html>
+    <body>
+
+        welcome <?php echo $_POST["firstname"],$_POST["lastname"]; ?><br>
+
+        Your email address is: <?php echo $_POST["email"]; ?><br>
+        your address is :<?php echo $_POST["address"]; ?><br>
+
+</body>
+</html>
